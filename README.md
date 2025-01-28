@@ -1,5 +1,4 @@
-# Drep
-Cardano Drep file
+
 [Uploading Donny7Lewis.jsonld…](){
   "@context": {
     "@language": "en-us",
